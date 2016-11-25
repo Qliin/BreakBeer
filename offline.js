@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480097470,
+	"version": 1480109460,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,8 @@
 		"images/help-sheet0.png",
 		"images/help-sheet1.png",
 		"images/howtopressspace-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/moeda.m4a",
 		"media/moeda.ogg",
 		"media/burp.m4a",
@@ -66,6 +68,8 @@
 		"media/barrel_1.ogg",
 		"media/barrel_2.m4a",
 		"media/barrel_2.ogg",
+		"media/barrel_trickling.m4a",
+		"media/barrel_trickling.ogg",
 		"media/garcon.ogg",
 		"media/garcon.m4a",
 		"icon-16.png",
