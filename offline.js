@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480109460,
+	"version": 1480113441,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,9 +39,13 @@
 		"images/playagain-sheet0.png",
 		"images/howtoplay-sheet0.png",
 		"images/howtodown-sheet0.png",
+		"images/howtodown-sheet1.png",
 		"images/howtoup-sheet0.png",
+		"images/howtoup-sheet1.png",
 		"images/howtow-sheet0.png",
+		"images/howtow-sheet1.png",
 		"images/howtos-sheet0.png",
+		"images/howtos-sheet1.png",
 		"images/barrel1bubbles.png",
 		"images/help-sheet0.png",
 		"images/help-sheet1.png",
