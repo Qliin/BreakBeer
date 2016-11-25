@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480022732,
+	"version": 1480045714,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,6 +43,9 @@
 		"images/howtow-sheet0.png",
 		"images/howtos-sheet0.png",
 		"images/barrel2bubbles.png",
+		"images/help-sheet0.png",
+		"images/help-sheet1.png",
+		"images/howtopressspace-sheet0.png",
 		"media/moeda.m4a",
 		"media/moeda.ogg",
 		"media/burp.m4a",
